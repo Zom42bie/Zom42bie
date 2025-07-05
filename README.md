@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Kumar Suman
 - 👀 I’m interested in learning and developing in both my personal and professional career, I am a graduate with Electronics and Communications Engineering.
-- 🌱 I’m currently learning SQL, MySQL, PostgreSQL, for data science jobs.
+- 🌱 I’m currently learning about Cybersecurity and its tools to kickstart my career in that.
 - 💞️ I’m looking to collaborate on the projects related to kickstart my career.
 - 📫 How to reach me Email : kumarsuman42saurabh@gmail.com Ph no: 7349102745
 - 😄 Pronouns: He/Him
